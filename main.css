@@ -1,3 +1,31 @@
 body {
   background-color: burlywood;
 }
+
+h2 {
+  color: rgb(47, 34, 18);
+}
+
+article {
+  padding: 10px;
+}
+
+#articleOne {
+  font-family: Arial;
+  border: 5px;
+}
+
+#articleTwo {
+  font-family: Arial;
+  border: 5px;
+}
+
+#articleThree {
+  font-family: Arial;
+  border: 5px;
+}
+
+#articleFour {
+  font-family: Arial;
+  border: 5px;
+}
